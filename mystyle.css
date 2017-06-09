@@ -32,6 +32,14 @@ div#service a{
    color: #0000FF;
 }
 
+div#cfp a{
+   margin: 0;
+   text-decoration: none;
+   font-weight: normal;
+   font-size: normal;
+   color: #0000FF;
+}
+
 div#publications{
    width: 85%;
    text-align: left;
@@ -127,10 +135,6 @@ div#hmenu ul li {
    padding: 0; 
    display: inline; 
 } 
-
-div a:visited{
-   color: #551A8B;
-}
 
 div#hmenu ul a:link, a:visited{ 
    margin: 0; 
