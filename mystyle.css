@@ -6,86 +6,6 @@ body {padding:30px;}
   padding:5px;
 }
 
-div#service{
-   width: 85%;
-   text-align: center;
-   margin: 0 auto;
-   font-family: 'Palatino Linotype';
-   font-size: 14px;
-}
-
-div#service h1{
-   font-family: 'PT Sans Narrow';
-   font-size: 30px;
-   font-style: normal;
-   font-variant: normal;
-   font-weight: bold;
-   line-height: 32px;
-}
-
-div#service a{
-   margin: 0;
-   padding: .3em .4em .3em .4em;
-   text-decoration: none;
-   font-weight: normal;
-   font-size: small;
-   color: #0000FF;
-}
-
-div#cfp a{
-   margin: 0;
-   text-decoration: none;
-   font-weight: normal;
-   font-size: normal;
-   color: #0000FF;
-}
-
-div#publications{
-   width: 85%;
-   text-align: left;
-   margin: 0 auto;
-   font-family: 'Palatino Linotype';
-   font-size: 14px;
-}
-
-div#publications h1{
-   font-family: 'PT Sans Narrow';
-   font-size: 30px;
-   font-style: normal;
-   font-variant: normal;
-   font-weight: bold;
-   line-height: 32px;
-}
-
-div#publications a{
-   margin: 0;
-   padding: .3em .4em .3em .4em;
-   text-decoration: none;
-   font-weight: normal;
-   font-size: small;
-   color: #0000FF;
-}
-
-div#publications bibs{
-   display: none;
-   font-family: 'Courier New', Courier, monospace;
-}
-
-div#about {
-   width: 85%;
-   text-align: left;
-   margin: 0 auto;
-   font-family: 'Palatino Linotype';
-}
-
-div#about a{
-   color: #0000FF;
-}
-
-div#students a{
-   color: #0000FF;
-}
-
 div#title {
    margin: 0;
    padding: 2em 0 2em 0;
@@ -170,4 +90,52 @@ div#hmenu ul a.current:link, a.current:visited{
 div#hmenu ul img.icons{
    width: 40px;
    vertical-align: middle;
+}
+
+.main {
+   width: 85%;
+   text-align: left;
+   margin: 0 auto;
+   font-family: 'Palatino Linotype';
+   font-size: 14px;
+}
+
+.main h1{
+   font-family: 'PT Sans Narrow';
+   font-size: 30px;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: bold;
+   line-height: 32px;
+}
+
+.main a{
+   margin: 0;
+   text-decoration: none;
+   font-weight: normal;
+   font-size: small;
+   color: #0000FF;
+}
+
+.main a:visited {
+  color: #0000FF;
+}
+
+
+.wrapper {
+    width: 100%;
+    border: 1px solid black;
+    overflow: hidden; /* add this to contain floated children */
+}
+.first {
+    width: 75%;
+    float:left; /* add this */
+    border: 1px solid red;
+}
+.sidenav {
+    border: 1px solid green;
+    float: left; /* add this */
+  width: 22%; /* Set the width of the sidebar */
+  background-color: #FFFFFF;
+  padding-top: 20px;
 }
