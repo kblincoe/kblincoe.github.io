@@ -1,0 +1,40 @@
+- student:
+  name: Zainab Masood
+  degree: PhD Software Engineering, University of Auckland
+  year: 2021
+  thesis: Theory of Practicing and Making Self-Assignment Work
+- student:
+  name: Madhurjya Choudhury
+  degree: PhD Mechanical Engineering, University of Auckland
+  year: 2021
+  thesis: Strategies for Removing Non-stationary Effects in Machine Diagnostics using Model- driven and Artificial Intelligence Techniques
+- student:
+  name: Eddie Chiang
+  degree: Master of Engineering (Software), University of Auckland
+  year: 2021
+  thesis: Program Comprehension Challenges Detection for Pull Requests with Machine Learning
+- student:
+  name:	Hechen (Sunny) Wang
+  degree: Master of Engineering (Software), University of Auckland
+  year: 2019
+  thesis: Classification of Software Forum Data with Machine Learning
+- student:
+  name:	Ali Dehghan
+  degree: Master of Computer Science, University of Victoria, Canada
+  year: 2017
+  thesis: Predicting Likelihood of Requirement Implementation within the Planned Iteration - An Empirical Study at IBM
+- student:
+  name:	Amar Kashari
+  degree: Master of Computer and Information Sciences, Auckland University of Technology
+  year: 2017
+  thesis: Agile Teams Roles and Responsibilities
+- student:
+  name:	Mashael Aljohani
+  degree: Master of Information Security and Digital Forensics, Auckland University of Technology
+  year: 2016
+  thesis: Personal Information Disclosure and Privacy in Social Networking Sites
+- student:
+  name:	Francis Harison
+  degree: Master of Computer Science, University of Victoria, Canada
+  year: 2015
+  thesis: A Method for Identifying Software Ecosystems of Technically Dependent Projects

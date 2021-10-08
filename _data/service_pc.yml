@@ -1,0 +1,57 @@
+- role:
+  name: Conferences Main Research Paper Tracks
+  venues:
+  - venue: International Conference on Software Engineering (ICSE)
+    tenure: 2019 - 2021
+  - venue: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2020 - 2021
+  - venue: Mining Software Repositories (MSR)
+    tenure: 2018 - 2020
+  - venue: International Conference on Software Maintenance and Evolution (ICSME)
+    tenure: 2019, 2021
+  - venue: International Requirements Engineering Conference (RE)
+    tenure: 2018 - 2021
+  - venue: International Symposium on Empirical Software Engineering and Measurement (ESEM)
+    tenure: 2018
+  - venue: International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE)
+    tenure: 2018
+  - venue: Australasian Computer Science Conference (ACSC)
+    tenure: 2017
+- role:
+  name:	Conferences Other Tracks
+  venues:
+  - venue: Diversity, Equity and Inclusion Track, European Conference on Software Architecture (ECSA) 
+    tenure: 2021
+  - venue: Ideas, Visions, and Reflections (IVR) Track, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2021
+  - venue: Tools Demo Track, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2019
+  - venue: Short Papers Track, Evaluation and Assessment in Software Engineering Conference (EASE)
+    tenure: 2019
+  - venue: Artifact Evaluation, International Conference on Software Engineering (ICSE)
+    tenure: 2019 - 2020
+  - venue: Artifact Evaluation, International Requirements Engineering Conference (RE)
+    tenure: 2019
+  - venue: Journal-First Papers Track, International Symposium on Empirical Software Engineering and Measurement (ESEM)
+    tenure: 2018
+  - venue: Software Engineering in Practice (SEIP) Track, International Conference on Software Engineering (ICSE)
+    tenure: 2018
+  - venue: Software Engineering in Society (SEIS) Track, International Conference on Software Engineering (ICSE)
+    tenure: 2016 - 2018
+  - venue: Short Papers Track, Asia-Pacific Software Engineering Conference (APSEC)
+    tenure: 2017
+  - venue: Mining Challenge Track, Mining Software Repositories (MSR)
+    tenure: 2015
+- role:
+  name: Workshops
+  venues:
+  - venue: International Workshop on Software Health (SoHeal)
+    tenure: 2018 - 2020
+  - venue: International Workshop on Emotion Awareness in Software Engineering (SEMotion)
+    tenure: 2016 - 2019
+  - venue: International Workshop on the Social and Organizational Dimensions of Software Architecting (SODA)
+    tenure: 2018
+  - venue: Workshop on the Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+    tenure: 2016
+  - venue: Social Software Engineering Workshop (SSE)
+    tenure: 2016

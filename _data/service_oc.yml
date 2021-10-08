@@ -1,0 +1,45 @@
+- role:
+  name: Program Co-Chair
+  venues:
+  - venue: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2023
+  - venue: Mining Software Repositories (MSR)
+    tenure: 2021
+  - venue: International Conference on Software Maintenance and Evolution (ICSME)
+    tenure: 2020
+- role:
+  name: Program Committee Area Chair
+  venues:
+  - venue: Software Analytics, International Conference on Software Engineering (ICSE)
+    tenure: 2023
+- role:
+  name: Track Co-Chair
+  venues:
+  - venue: Industry Forum, International Conference on Software Engineering (ICSE)
+    tenure: 2023
+  - venue: Software Engineering in Society, International Conference on Software Engineering (ICSE)
+    tenure: 2022
+  - venue: RE Next, International Requirements Engineering Conference (RE)
+    tenure: 2022
+  - venue: Journal First Track, International Conference on Software Analysis Evolution and Reengineering (SANER)
+    tenure: 2022
+  - venue: Industrial Papers, International Symposium on Empirical Software Engineering and Measurement (ESEM)
+    tenure: 2018
+  - venue: Short Papers, Evaluation and Assessment in Software Engineering Conference (EASE)
+    tenure: 2018
+  - venue: Experience Reports, International Conference on Global Software Engineering (ICGSE)
+    tenure: 2018
+- role: 
+  name: Other Conference Organization Committee Roles
+  venues:
+  - venue: Diversity and Inclusion Co-Chair, Local Organising Chair, ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity (SPLASH)
+    tenure: 2022
+  - venue: Publicity Co-Chair, Mining Software Repositories (MSR)
+    tenure: 2019
+- role:
+  name: Workshop Organizer
+  venues:
+  - venue: International Workshop on Affective Computing in Requirements Engineering (AffectRE)
+    tenure: 2020, 2021
+  - venue: International Workshop on Context for Software Developers (CSD)
+    tenure: 2014, 2015

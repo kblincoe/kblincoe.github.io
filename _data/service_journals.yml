@@ -1,0 +1,36 @@
+- role:
+  name: Senior Associate Editor
+  venues:
+  - venue: Journal of Systems and Software (JSS)
+    tenure: 2021 - current
+- role: 
+  name: Associate Editor
+  venues: 
+  - venue: IEEE Transactions on Software Engineering (TSE)
+    tenure: 2021 - current
+  - venue: Empirical Software Engineering (EMSE)
+    tenure: 2018 - current
+  - venue: Journal of Systems and Software (JSS)
+    tenure: 2017 - 2020
+- role: 
+  name: Guest Editor
+  venues:
+  - venue: Special Issue on Human-Centric Software Engineering in Journal of Systems and Software (JSS)
+    tenure: upcoming
+  - venue: Special Issue on MSR'21 in Empirical Software Engineering (EMSE)
+    tenure: upcoming
+  - venue: Special Issue on ICSME'20 in	Empirical Software Engineering (EMSE)
+    tenure: upcoming
+  - venue: Special Issue on RE'19 in Empirical Software Engineering (EMSE)
+    tenure: 2020
+  - venue: Special Issue on RE'19 in Requirements Engineering (RE)
+    tenure: 2020
+  - venue: Special Issue on Context for Software Developers in Journal of Systems and Software (JSS)
+    tenure: 2016
+- role: 
+  name: Review Board Member
+  venues:
+  - venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+    tenure: 2019 - current
+  - venue: Empirical Software Engineering (EMSE)
+    tenure: 2015 - 2017

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.6.0/dist/minty/bootstrap.css">
+    <script src="https://kit.fontawesome.com/9a3add86e9.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="../assets/css/myStyles.css">
+
+    {% seo %} 
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="container-fluid">
+      <div class="row">
+	{% include sidebar.html %}
+	{% include main.html %}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
