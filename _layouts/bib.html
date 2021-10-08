@@ -5,6 +5,9 @@
 </div>
 
 <div style="padding-bottom: 10px">
+  {% if entry.award %}
+  <span><i class="fas fa-trophy"></i> <strong> {{entry.award}}  </strong></span><br>
+  {% endif %}
   <span>[<a href="#bibtex-entry-{{key}}" data-toggle="collapse">BibTeX</a>]</span>
   {% if entry.doi %}
   <span>[<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank">DOI</a>]</span>
@@ -23,9 +26,6 @@
   {% endif %}
   {% if entry.video %}
   <span>[<a href="{{ entry.video }}" target="_blank">Video</a>]</span>
-  {% endif %}
-  {% if entry.award %}
-  <span><strong> {{entry.award}}  </strong></span>
   {% endif %}
 </div>
 
