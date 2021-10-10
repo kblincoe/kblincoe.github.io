@@ -2,18 +2,20 @@
 layout: default
 title: Students
 ---
-<h2>Current Students</h2>
+If you are looking for a PhD project, check out the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/software-engineering/doctoral.html" target="_blank">Software Engineering PhD programme</a> at the University of Auckland, where you will find details on how to apply. You can also email me if you want to discuss your research interests and how they might fit with my group. Also check out the <a href="https://hasel.auckland.ac.nz" target="_blank">HASEL website</a> to learn more about our team and current projects.<br><br>
+
+<h2 class="text-primary">Current Students</h2>
 {% for item in site.data.students %}
    <div style="padding-bottom: 0px">{{item.name}}, {{item.degree}}</div>
-{% endfor %}
+{% endfor %}<br>
 
-<h2>Alumni</h2>
+<h2 class="text-primary">Alumni</h2>
 {% for item in site.data.alumni %}
    {{item.name}}, {{item.degree}}, {{item.year}}<br>
    <i>Thesis: </i>{{item.thesis}}
 {% endfor %}
 
-<h2>Thesis Examination Committee Member</h2>
+<h2 class="text-primary">Thesis Examination Committee Member</h2>
 {% for item in site.data.examinations %}
    <div style="padding-bottom: 0px">{{ item.student }}</div>
 {% endfor %}

@@ -1,6 +1,6 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Dr Kelly Blincoe</a>
+    <a class="navbar-brand" style="font-family: 'Homemade Apple', cursive;" href="#">Dr Kelly Blincoe</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -13,13 +13,6 @@
 	    <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
 	    {% endif %}
 	{% endfor %}
-	<div class="d-block d-sm-none">
-	  {% if page.url == "/contact.html" %}
-	    <a class="nav-item nav-link active" href="/contact">Contact</a>
-	  {% else %}
-	    <a class="nav-item nav-link" href="/contact">Contact</a>
-          {% endif %}
-	</div>      
       </div>
     </div>
   </div>

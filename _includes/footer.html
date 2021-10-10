@@ -1,5 +1,14 @@
-<footer class="text-center bg-primary text-white">
-  &copy; Dr Kelly Blincoe 2021. Powered by <a href="https://jekyllrb.com/" class="text-white" target="_blank">Jekyll</a>. Theme by <a href="https://bootswatch.com" class="text-white" target="_blank">Bootswatch</a>. Hosted on <a href="https://pages.github.com/" class="text-white" target="_blank">GitHub Pages</a>.
+<footer class="text-center bg-light text-primary">
+  <br>
+  <div class="d-block d-sm-none" style="text-align: center;">
+      {% for item in site.data.social %}
+        <a href="{{item.url}}" title="{{item.name}}" target="_blank"><i class="{{item.icon}} fa-lg"></i></a>&nbsp;&nbsp;
+      {% endfor %}
+  </div>
+  <br>
+  &copy; Copyright Dr Kelly Blincoe 2021. <br>
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. Theme by <a href="https://bootswatch.com" target="_blank">Bootswatch</a>.
+  Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 </footer>
 
 <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js" integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ" crossorigin="anonymous"></script>
