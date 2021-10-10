@@ -10,7 +10,7 @@ scholar:
   style: _bibliography/acm-sigchi-proceedings.csl
   locale: en
 
-  sort_by: order, author
+  sort_by: ordering, author
   order: ascending
 
   group_by: year
@@ -28,6 +28,6 @@ scholar:
   bibliography_list_tag: 'div'
   bibliography_item_tag: 'span'
   
-  bibtex_skip_fields: ['pdf', 'code', 'video', 'slides', 'order']
+  bibtex_skip_fields: ['pdf', 'code', 'video', 'slides', 'ordering']
   
   query: "@*"
