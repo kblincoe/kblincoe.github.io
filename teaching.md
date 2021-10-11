@@ -7,6 +7,6 @@ I teach Software Engineering at the University of Auckland. My courses cover top
 <h2 class="text-primary">Courses Taught</h2>
 {% for item in site.data.teaching %}
   <div style="padding-bottom: 10px"> <b>{{item.name}}</b><br>
-  {{item.years}}<br>
-  <i>{{item.place}}</i></div>
+  <i>{{item.place}}</i><br>
+  {{item.years}}</div>
 {% endfor %}

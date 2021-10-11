@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-I am a Senior Lecturer of Software Engineering at the University of Auckland, New Zealand in the Department of Electrical, Computer, and Software Engineering. I lead the Human Aspects of Software Engineering Lab (HASEL), check it out at <a href="https://hasel.auckland.ac.nz/">https://hasel.auckland.ac.nz</a>.
+I am a Senior Lecturer of Software Engineering at the University of Auckland, New Zealand in the Department of Electrical, Computer, and Software Engineering. I lead the Human Aspects of Software Engineering Lab (HASEL), check it out at <a href="https://hasel.auckland.ac.nz/" target="_blank">https://hasel.auckland.ac.nz</a>.
 The senior lecturer title is equivalent to associate professor in North American, European, and Asian universities
-(<a href="http://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)">see here</a>).<br>
+(<a href="http://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)" target="_blank">see here</a>).<br>
 
 My research is mainly in the human and social aspects of software engineering. I take a socio-technical perspective, considering the interaction between the social and technical aspects of software engineering. Some of my current research projects include:
 <ul>
@@ -28,7 +28,7 @@ Before starting at the University of Auckland, I was a lecturer at Auckland Univ
 Prior to that, I was a Postdoctoral Fellow in the Software Engineering Global interAction Lab in the Department of Computer Science at the University of Victoria, Canada.
 Previously, I worked for eight years as both a software engineer and a proposal manager at Lockheed Martin.
 I obtained my PhD from Drexel University in 2014.
-My <a href="./publications/blincoe_thesis.pdf">PhD dissertation</a> focused on methods to facilitate timely and efficient coordination between software developers.
+My <a href="./publications/blincoe_thesis.pdf" target="_blank">PhD dissertation</a> focused on methods to facilitate timely and efficient coordination between software developers.
 I recieved a MS in Information Science from Pennsylvania State University in 2008 and a BE from Villanova University in 2004.<br>
 
 I am  originally from Philadelphia, PA, USA. I currently live in Auckland, New Zealand with my husband, Adrian, and our two children.<br>
