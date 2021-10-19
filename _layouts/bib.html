@@ -16,7 +16,8 @@
   <span>[<a href="{{ entry.html }}" target="_blank">HTML</a>]</span>
   {% endif %}
   {% if entry.pdf %}
-  <span>[<a href="publications/{{key}}.html">PDF</a>]</span>
+  <span class="d-none d-sm-inline">[<a href="publications/{{key}}.html">PDF</a>]</span>
+  <span class="d-inline d-sm-none">[<a href="{{entry.pdf}}" target="_blank">PDF</a>]</span>
   {% endif %}
   {% if entry.slides %}
   <span>[<a href="{{ entry.slides }}" target="_blank">Slides</a>]</span>
