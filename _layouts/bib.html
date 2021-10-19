@@ -4,7 +4,7 @@
   {{reference | replace_first: 'Kelly Blincoe', '<b>Kelly Blincoe</b>' }}
 </div>
 
-<div style="padding-bottom: 10px">
+<div style="padding-bottom: 0px">
   {% if entry.award %}
   <span><i class="fas fa-trophy"></i> <strong> {{entry.award}}  </strong></span><br>
   {% endif %}
@@ -16,7 +16,7 @@
   <span>[<a href="{{ entry.html }}" target="_blank">HTML</a>]</span>
   {% endif %}
   {% if entry.pdf %}
-  <span>[<a href="{{ entry.pdf }}" target="_blank">PDF</a>]</span>
+  <span>[<a href="publications/{{key}}.html">PDF</a>]</span>
   {% endif %}
   {% if entry.slides %}
   <span>[<a href="{{ entry.slides }}" target="_blank">Slides</a>]</span>
