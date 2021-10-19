@@ -9,3 +9,7 @@ pre{
 .noshow{
     visibility: hidden;
 }
+
+.embed-responsive-210by297 {
+  padding-bottom: 141.42%;
+}
