@@ -8,25 +8,25 @@
   {% if entry.award %}
   <span><i class="fas fa-trophy"></i> <strong> {{entry.award}}  </strong></span><br>
   {% endif %}
-  <span>[<a href="#bibtex-entry-{{key}}" data-toggle="collapse">BibTeX</a>]</span>
+  <span><a href="#bibtex-entry-{{key}}" data-toggle="collapse">BibTeX</a></span>
   {% if entry.doi %}
-  <span>[<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank">DOI</a>]</span>
+  <span>&nbsp;&middot;&nbsp;<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank">DOI</a></span>
   {% endif %}
   {% if entry.html %}
-  <span>[<a href="{{ entry.html }}" target="_blank">HTML</a>]</span>
+  <span>&nbsp;&middot;&nbsp;<a href="{{ entry.html }}" target="_blank">HTML</a></span>
   {% endif %}
   {% if entry.pdf %}
-  <span class="d-none d-sm-inline">[<a href="publications/{{key}}.html">PDF</a>]</span>
-  <span class="d-inline d-sm-none">[<a href="{{entry.pdf}}" target="_blank">PDF</a>]</span>
+  <span class="d-none d-sm-inline">&nbsp;&middot;&nbsp;<a href="publications/{{key}}.html">PDF</a></span>
+  <span class="d-inline d-sm-none">&nbsp;&middot;&nbsp;<a href="{{entry.pdf}}" target="_blank">PDF</a></span>
   {% endif %}
   {% if entry.slides %}
-  <span>[<a href="{{ entry.slides }}" target="_blank">Slides</a>]</span>
+  <span>&nbsp;&middot;&nbsp;<a href="{{ entry.slides }}" target="_blank">Slides</a></span>
   {% endif %}
   {% if entry.code %}
-  <span>[<a href="{{ entry.code }}" target="_blank">Replication Package</a>]</span>
+  <span>&nbsp;&middot;&nbsp;<a href="{{ entry.code }}" target="_blank">Replication Package</a></span>
   {% endif %}
   {% if entry.video %}
-  <span>[<a href="{{ entry.video }}" target="_blank">Video</a>]</span>
+  <span>&nbsp;&middot;&nbsp;<a href="{{ entry.video }}" target="_blank">Video</a></span>
   {% endif %}
 </div>
 
