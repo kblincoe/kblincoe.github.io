@@ -39,7 +39,7 @@ bundle exec jekyll serve
 3. Verify changes build correctly by going to http://localhost:4000 in your browser
 
 # Want to submit a pull request for this website?
-If the above instructions need to be improved, feel free to submit a pull request. 
+If the above instructions need to be improved or you have suggestions on the website, feel free to submit a pull request or create a new issue. 
 
 My students can also submit pull requests if they want to add or modify their publications or any other details about themselves on the site. 
 All pull requests should be submitted to the source branch. 
@@ -49,8 +49,7 @@ Clone this repo and make any required changes in your local copy.
 To add a publication, add a BibTeX entry to the references.bib file in the _bibliography folder on the source branch. 
 You can also modify existing entries in this file to add additional details as needed.
 You can use the fields pdf, slides, video, award, html, and doi. 
-In these fields, you can use absolute paths (if the file is stored elsewhere) or a relative path (if the file is stored in this repo). 
-If you use a relative path, make sure you have also added the file to the repo in the appropriate folder on the source branch. 
+In these fields, you should use absolute paths as the bib file also populates the HASEL website. 
 If you add a pdf of the publication, make sure you have also included the doi field as this is a condition of most copyright agreements. 
 
 Make sure you test locally before submitting a pull request (see instructions above).
