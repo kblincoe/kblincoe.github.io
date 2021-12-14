@@ -4,7 +4,7 @@
   - venue: International Conference on Software Engineering (ICSE)
     tenure: 2019 - 2021
   - venue: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-    tenure: 2020 - 2021
+    tenure: 2020 - 2022
   - venue: Mining Software Repositories (MSR)
     tenure: 2018 - 2020
   - venue: International Conference on Software Maintenance and Evolution (ICSME)
@@ -20,6 +20,8 @@
 - role:
   name:	Conferences Other Tracks
   venues:
+  - venue: Doctoral Symposium, Evaluation and Assessment in Software Engineering Conference (EASE)
+    tenure: 2022
   - venue: Diversity, Equity and Inclusion Track, European Conference on Software Architecture (ECSA) 
     tenure: 2021
   - venue: Ideas, Visions, and Reflections (IVR) Track, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
@@ -45,6 +47,8 @@
 - role:
   name: Workshops
   venues:
+  - venue: International Workshop on Recruiting Participants for Empirical Software Engineering (RoPES)
+    tenure: 2022
   - venue: International Workshop on Software Health (SoHeal)
     tenure: 2018 - 2020
   - venue: International Workshop on Emotion Awareness in Software Engineering (SEMotion)
