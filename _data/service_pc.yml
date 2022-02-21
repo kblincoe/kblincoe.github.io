@@ -8,7 +8,7 @@
   - venue: Mining Software Repositories (MSR)
     tenure: 2018 - 2020
   - venue: International Conference on Software Maintenance and Evolution (ICSME)
-    tenure: 2019, 2021
+    tenure: 2019, 2021 - 2022
   - venue: International Requirements Engineering Conference (RE)
     tenure: 2018 - 2021
   - venue: International Symposium on Empirical Software Engineering and Measurement (ESEM)
@@ -20,6 +20,8 @@
 - role:
   name:	Conferences Other Tracks
   venues:
+  - venue: New Ideas and Emerging Results, International Conference on Software Maintenance and Evolution (ICSME)
+    tenure: 2022
   - venue: Doctoral Symposium, Evaluation and Assessment in Software Engineering Conference (EASE)
     tenure: 2022
   - venue: Diversity, Equity and Inclusion Track, European Conference on Software Architecture (ECSA) 

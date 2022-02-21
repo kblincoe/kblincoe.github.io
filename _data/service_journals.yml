@@ -30,6 +30,8 @@
 - role: 
   name: Review Board Member
   venues:
+  - venue: Information and Software Technology (IST)
+    tenure: 2021 - current
   - venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
     tenure: 2019 - current
   - venue: Empirical Software Engineering (EMSE)
