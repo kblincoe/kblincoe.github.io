@@ -20,6 +20,8 @@
 - role:
   name:	Conferences Other Tracks
   venues:
+  - venue: Doctoral Symposium, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2022
   - venue: New Ideas and Emerging Results, International Conference on Software Maintenance and Evolution (ICSME)
     tenure: 2022
   - venue: Doctoral Symposium, Evaluation and Assessment in Software Engineering Conference (EASE)
