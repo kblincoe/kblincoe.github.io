@@ -26,10 +26,18 @@
     tenure: 2022
   - venue: Doctoral Symposium, Evaluation and Assessment in Software Engineering Conference (EASE)
     tenure: 2022
+  - venue: Awards Committee, Mining Software Repositories (MSR)
+    tenure: 2022
+  - venue: FOSS Award Committee, Mining Software Repositories (MSR)
+    tenure: 2022
   - venue: Diversity, Equity and Inclusion Track, European Conference on Software Architecture (ECSA) 
     tenure: 2021
   - venue: Ideas, Visions, and Reflections (IVR) Track, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
     tenure: 2021
+  - venue: Most Influential Paper (MIP) Award, Mining Software Repositories (MSR)
+    tenure: 2020 - 2021
+  - venue: Posters Track, International Conference on Software Engineering (ICSE)
+    tenure: 2020
   - venue: Tools Demo Track, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
     tenure: 2019
   - venue: Short Papers Track, Evaluation and Assessment in Software Engineering Conference (EASE)
@@ -60,6 +68,6 @@
   - venue: International Workshop on the Social and Organizational Dimensions of Software Architecting (SODA)
     tenure: 2018
   - venue: Workshop on the Evaluation and Usability of Programming Languages and Tools (PLATEAU)
-    tenure: 2016
+    tenure: 2016, 2018
   - venue: Social Software Engineering Workshop (SSE)
     tenure: 2016
