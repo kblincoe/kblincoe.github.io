@@ -1,4 +1,9 @@
 - student:
+  name: James Tizard
+  degree: PhD Software Engineering, University of Auckland
+  year: 2022
+  thesis: "Voice of the users: Mining software requirements from online user feedback"
+- student:
   name: Zainab Masood
   degree: PhD Software Engineering, University of Auckland
   year: 2021

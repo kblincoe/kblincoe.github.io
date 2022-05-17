@@ -29,6 +29,6 @@ Prior to that, I was a Postdoctoral Fellow in the Software Engineering Global in
 Previously, I worked for eight years as both a software engineer and a proposal manager at Lockheed Martin.
 I obtained my PhD from Drexel University in 2014.
 My <a href="./publications/blincoe_thesis.pdf" target="_blank">PhD dissertation</a> focused on methods to facilitate timely and efficient coordination between software developers.
-I recieved a MS in Information Science from Pennsylvania State University in 2008 and a BE from Villanova University in 2004.<br>
+I received a MS in Information Science from Pennsylvania State University in 2008 and a BE from Villanova University in 2004.<br>
 
 I am  originally from Philadelphia, PA, USA. I currently live in Auckland, New Zealand with my husband, Adrian, and our two children.<br>
