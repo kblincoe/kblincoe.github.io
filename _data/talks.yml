@@ -1,0 +1,91 @@
+- talk:
+  title: Creating Better Software by Centering Diversity, Equity, and Inclusion
+  venue: International Conference on ICT for Sustainability (ICT4S)
+  year: 2022
+  type: Keynote
+  video: https://www.youtube.com/watch?v=nI1uZuS18xo
+  slides: slides/2022_ICT4S.pdf
+- talk:
+  title: Don’t Give Destructive Criticism in Code Review
+  venue: "It Will Never Work in Theory: Live"
+  year: 2022
+  type: Invited Talk
+  video: https://www.youtube.com/watch?v=qaO00CLqLkI
+  slides: slides/2022_Never_Work_Theory_Live.pdf
+- talk:
+  title: Reimagining Software Processes and Practices for an Inclusive RSE
+  venue: DiveRSE Seminar Series
+  type: Invited Talk
+  year: 2022
+  video: https://www.youtube.com/watch?v=aVeGyeQUifs
+  slides: slides/2022_DiveRSE.pdf
+- talk:
+  title: Centering DEI by Reimagining Software Processes and Practices
+  venue: Vive la Différence - Research Software Engineers
+  type: Invited Talk
+  year: 2022
+  slides: slides/2022_VivelaDifference.pdf
+  video: https://www.youtube.com/watch?v=ixqYDH-plCs&list=PL9LY1bVcxGJd8QhKQYgWd7jtArqrxw7oO&index=3
+- talk:
+  title: Leveraging Requirements from the Crowd for More Inclusive Software
+  venue: Workshop on Human Centric Software Engineering and Cyber Security (HCSE&CS)
+  year: 2021
+  type: Keynote
+  slides: slides/2021_HCSE-CS.pdf
+- talk:
+  title: "Exploring the Digital Strategy for Aotearoa Mahi Tahi: Inclusion"
+  venue: Veracity Lab Webinar Series
+  year: 2021
+  type: Invited Talk
+  slides: slides/2021_Veracity.pdf
+  video: https://www.youtube.com/watch?v=UlE4XOGkUwo
+- talk:
+  title: "Towards Automatic Updates of Software Dependencies: Current and Future Work"
+  venue: University of Otago
+  year:	2021
+  type:	Invited	Talk
+- talk:
+  title: Developing Inclusion Advocates
+  venue: Google Software Developer Diversity and Inclusion Workshop
+  year: 2019
+  type: Invited Talk
+- talk:
+  title: "Modern Software Development: The Stress and Social Pressure"
+  venue: 2nd Hamburg Requirements Engineering Symposium
+  year: 2019
+  type: Invited Talk
+- talk:
+  title: "Sometimes Less is More: Coordination between Software Developers"
+  venue: University of California, Davis
+  year: 2015
+  type: Invited Talk
+- talk:
+  title: "Coordination between Software Developers"
+  venue: Auckland University of Technology
+  year: 2015
+  type: Invited Talk
+- talk:
+  title: (Tools for) Awareness in Software Engineering
+  venue: University of Victoria, Computer Supported Cooperative Work Course
+  year: 2014
+  type: Guest Lecture
+- talk:
+  title: "Facilitating Coordination between Software Developers: A Timely and Efficient Method"
+  venue: University of Victoria, Software Engineering Global Interaction Lab
+  year: 2013
+  type: Invited Talk
+- talk:	
+  title: "Facilitating Coordination between Software Developers"
+  venue: Auckland University of Technology, Software Engineering Lab
+  year:	2013
+  type: Invited Talk
+- talk:	
+  title: "ProxiScientia: Visualization of Developer Coordination Needs"
+  venue: Ericcson Canada Inc., Ottawa, Canada
+  year:	2012
+  type: Invited Talk
+- talk:
+  title: Quantifying Developer Coordination Needs
+  venue: ETH Zurich, Switzerland
+  year: 2012
+  type: Invited Talk
