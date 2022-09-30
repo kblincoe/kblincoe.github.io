@@ -40,6 +40,15 @@ Part of my job includes national and international service. I hold many leadersh
   </div>
 {% endfor %}
 
+<h2 class="text-primary">Award Committee Memberships</h2>
+{% for item in site.data.service_awards %}
+  <div style="padding-bottom: 10px"><b> {{ item.name}} </b><br>
+  {% for entry in item.venues %}
+    <i>{{entry.venue}}</i>, {{entry.tenure}}<br>
+  {% endfor %}
+  </div>
+{% endfor %}
+
 <h2 class="text-primary">Reviewing</h2>
 {% for item in site.data.service_reviewing %}
   <div style="padding-bottom: 0px">{{item.venue}}</div>

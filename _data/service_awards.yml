@@ -1,0 +1,18 @@
+- role:
+  name: Chair
+  venues:
+  - venue: Test of Time Award, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2022
+  - venue: Awards, Mining Software Repositories (MSR)
+    tenure: 2023 - 2024
+- role:
+  name:	Member
+  venues:
+  - venue: IEEE TCSE Distinguished Education Award
+    tenure: 2021 - 2022
+  - venue: Awards, Mining Software Repositories (MSR)
+    tenure: 2022
+  - venue: FOSS Award, Mining Software Repositories (MSR)
+    tenure: 2022
+  - venue: Most Influential Paper (MIP) Award, Mining Software Repositories (MSR)
+    tenure: 2020 - 2021
