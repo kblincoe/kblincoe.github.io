@@ -15,6 +15,13 @@ Auckland 1142<br>
 New Zealand<br>
 </span>
 
+<span><b>Courier Address</b><br>
+The University of Auckland<br>
+1 Grafton Road<br>
+Auckland 1010<br>
+New Zealand<br>
+</span>
+
 <div class="d-block d-sm-none" style="text-align: center;"><br>
   or find me online ... <br>
 </div>
