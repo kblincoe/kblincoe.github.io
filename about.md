@@ -20,7 +20,7 @@ I employ a variety of both qualitative and quantitative empirical research metho
 repository analysis, social network analysis, interviews, and surveys.
 My research has been published in the IEEE Transactions on Software Engineering (TSE), Journal of Systems and Software (JSS), Empirical Software Engineering (EMSE) Journal, Information and Software Technology (IST) Journal, and in the proceedings of the International Conference on Software Engineering (ICSE), Foundations of Software Engineering (FSE), Mining Software Repositories (MSR), Requirements Engineering (RE), among others. Check out my full <a href="/publications.html">list of publications</a>.<br>
 
-I am serve in many leadership positions in the software engineering research community.
+I serve in many leadership positions in the software engineering research community.
 I serve on the program committees of various conferences and workshops including ICSE, ESEC/FSE, RE, and MSR.
 I am on the editorial boards of the IEEE Transactions on Software Engineering, the Empirical Software Engineering Journal, and the Journal of Systems and Software. Check out my current and previous <a href="/service.html">service roles</a>.<br>
 
