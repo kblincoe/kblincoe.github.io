@@ -7,7 +7,12 @@
   name: Treasurer
   venues:
   - venue: Software Innovation New Zealand 
-    tenure: 2016 - current
+    tenure: 2016 - 2022
+- role:
+  name: Member
+  venues:
+  - venue: IEEE Computer Society Diversity and Inclusion Committee
+    tenure: 2022 - current
 - role:
   name: Steering Committee Member
   venues:
