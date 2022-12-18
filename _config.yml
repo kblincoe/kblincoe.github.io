@@ -21,10 +21,6 @@ scholar:
 
   bibtex_filters: latex	
   bibliography_template: bib
-
-  details_dir: publications
-  details_layout: publication.html
-  details_link_class: noshow
   
   replace_strings: true
   join_strings:    true
