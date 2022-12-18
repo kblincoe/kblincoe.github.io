@@ -6,6 +6,8 @@ gems: ['jekyll/scholar']
 
 title: "Dr Kelly Blincoe"
 
+google_analytics: G-D2L0JGBN08
+
 scholar:
   style: _bibliography/acm-sigchi-proceedings.csl
   locale: en
