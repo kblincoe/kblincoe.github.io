@@ -1,4 +1,9 @@
 - student:
+  name: Sanuri Dananja Gunawardena
+  degree: PhD Computer Science, University of Auckland
+  year: 2023
+  thesis: "Exploring the Potential of Non-programmer Contributions in Code Review"
+- student:
   name: James Tizard
   degree: PhD Software Engineering, University of Auckland
   year: 2022
