@@ -1,4 +1,10 @@
 - talk:
+  title: "Software Ecosystems: A Socio-technical Perspective"
+  venue: TU/Eindhoven SwEng Seminar 2023
+  year: 2023
+  type: Invited Talk
+  slides: slides/2023_TUe.pdf
+- talk:
   title: Creating Better Software by Centering Diversity, Equity, and Inclusion
   venue: International Conference on ICT for Sustainability (ICT4S)
   year: 2022
