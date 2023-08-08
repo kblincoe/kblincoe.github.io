@@ -1,11 +1,5 @@
 - student:
-  name: Haris Mumtaz
-  degree: PhD Software Engineering, University of Auckland
-- student:
   name: Hechen (Sunny) Wang
-  degree: PhD Software Engineering, University of Auckland
-- student:
-  name: Peter Devine
   degree: PhD Software Engineering, University of Auckland
 - student:
   name: Dhanushka Jayasuriya
@@ -17,8 +11,8 @@
   name: Judith Perera
   degree: PhD Computer Science, University of Auckland
 - student:
-  name: Run Qin
-  degree: Master of Engineering (Software), University of Auckland
+  name: Sau Kae Tan
+  degree: PhD Software Engineering, University of Auckland
 - student:
   name: Xiaoqi Chai
   degree: Master of Engineering (Software), University of Auckland

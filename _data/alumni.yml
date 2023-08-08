@@ -1,8 +1,23 @@
 - student:
+  name: Haris Mumtaz
+  degree: PhD Software Engineering, University of Auckland
+  year: 2023
+  thesis: "Social and Technical Quality Analysis in Software Projects"
+- student:
+  name: Peter Devine
+  degree: PhD Software Engineering, University of Auckland
+  year:	2023
+  thesis: "Improved Techniques for Identifying Software Product Development Insights"
+- student:
   name: Sanuri Dananja Gunawardena
   degree: PhD Computer Science, University of Auckland
   year: 2023
   thesis: "Exploring the Potential of Non-programmer Contributions in Code Review"
+- student:
+  name: Run Qin
+  degree: Master of Engineering (Software), University of Auckland
+  year: 2023
+  thesis: "Bert-based Feature Extraction Approach for Software Forum Posts"
 - student:
   name: James Tizard
   degree: PhD Software Engineering, University of Auckland
