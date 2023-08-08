@@ -1,15 +1,19 @@
 - course:
+  name: Software Evolution and Maintenance (SOFTENG 310)
+  place: University of Auckland
+  years: 2023 - current
+- course:
   name: Software Quality Assurance (SOFTENG 283)
   place: University of Auckland
-  years: 2021 - current
+  years: 2021
 - course:
   name: Advanced Software Engineering Development Methods (SOFTENG 701)
   place: University of Auckland
-  years: 2016 - current
+  years: 2016 - 2021
 - course:
   name: Advanced Software Requirements Engineering (SOFTENG 754)
   place: University of Auckland
-  years: 2017 - current
+  years: 2017 - 2021
 - course:
   name: Agile and Lean Software Development (SOFTENG 761)
   place: University of Auckland
