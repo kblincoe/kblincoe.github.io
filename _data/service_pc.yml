@@ -8,7 +8,7 @@
   - venue: Mining Software Repositories (MSR)
     tenure: 2018 - 2020
   - venue: International Conference on Software Maintenance and Evolution (ICSME)
-    tenure: 2019, 2021 - 2022
+    tenure: 2019, 2021 - 2022, 2024
   - venue: International Requirements Engineering Conference (RE)
     tenure: 2018 - 2021
   - venue: International Symposium on Empirical Software Engineering and Measurement (ESEM)
@@ -62,6 +62,8 @@
 - role:
   name: Workshops
   venues:
+  - venue: Workshop on Advances in Human-Centric Experiments in Software Engineering (HUMAN)
+    tenure: 2024
   - venue: International Workshop on Recruiting Participants for Empirical Software Engineering (RoPES)
     tenure: 2022
   - venue: International Workshop on Software Health (SoHeal)

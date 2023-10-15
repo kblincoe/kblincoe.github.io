@@ -32,6 +32,8 @@
 - role: 
   name: Other Conference Organization Committee Roles
   venues:
+  - venue: Publicity Lead (Oceania), International Conference on Evaluation and Assessment in Software Engineering (EASE)
+    tenure: 2024
   - venue: Diversity and Inclusion Co-Chair, Local Organising Chair, ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity (SPLASH)
     tenure: 2022
   - venue: Publicity Co-Chair, Mining Software Repositories (MSR)

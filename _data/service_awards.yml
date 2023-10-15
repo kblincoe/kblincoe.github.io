@@ -8,6 +8,8 @@
 - role:
   name:	Member
   venues:
+  - venue: ACM SIGSOFT Committee for Early Career Researcher, Outstanding Doctoral Dissertation, and Frank Anger Memorial Awards
+    tenure: 2024
   - venue: IEEE TCSE Distinguished Education Award
     tenure: 2021 - 2022
   - venue: Awards, Mining Software Repositories (MSR)
