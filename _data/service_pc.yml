@@ -25,6 +25,8 @@
 - role:
   name:	Conferences Other Tracks
   venues:
+  - venue: New Faculty Symposium, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
+    tenure: 2023
   - venue: Student Research Competition, International Conference on Software Engineering (ICSE)
     tenure: 2023
   - venue: Doctoral Symposium, International Conference on Software Engineering (ICSE)
