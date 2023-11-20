@@ -15,6 +15,8 @@
 - role:
   name: Track Co-Chair
   venues:
+  - venue: Artifact Evaluation Co-Chair, International Conference on Software Engineering (ICSE)
+    tenure: 2025
   - venue: Industry Forum, International Conference on Software Engineering (ICSE)
     tenure: 2023
   - venue: Software Engineering in Society, International Conference on Software Engineering (ICSE)
