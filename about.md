@@ -3,9 +3,7 @@ layout: default
 title: About
 ---
 
-I am a Rutherford Discover Fellow and a Senior Lecturer of Software Engineering at the University of Auckland, New Zealand in the Department of Electrical, Computer, and Software Engineering. I lead the Human Aspects of Software Engineering Lab (HASEL), check it out at <a href="https://hasel.auckland.ac.nz/" target="_blank">https://hasel.auckland.ac.nz</a>.
-The senior lecturer title is equivalent to associate professor in North American, European, and Asian universities
-(<a href="http://en.wikipedia.org/wiki/Academic_ranks_(Australia_and_New_Zealand)" target="_blank">see here</a>).<br>
+I am a Rutherford Discover Fellow and an Associate Professor of Software Engineering at the University of Auckland, New Zealand in the Department of Electrical, Computer, and Software Engineering. I lead the Human Aspects of Software Engineering Lab (HASEL), check it out at <a href="https://hasel.auckland.ac.nz/" target="_blank">https://hasel.auckland.ac.nz</a>.<br>
 
 My research is mainly in the human and social aspects of software engineering. I take a socio-technical perspective, considering the interaction between the social and technical aspects of software engineering. Some of my current research projects include:
 <ul>
