@@ -34,6 +34,8 @@
 - role: 
   name: Other Conference Organization Committee Roles
   venues:
+  - venue: Local Organization Chair, International Conference on Software Maintenance and Evolution (ICSME)
+    tenure: 2025
   - venue: Publicity Lead (Oceania), International Conference on Evaluation and Assessment in Software Engineering (EASE)
     tenure: 2024
   - venue: Diversity and Inclusion Co-Chair, Local Organising Chair, ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity (SPLASH)

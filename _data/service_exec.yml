@@ -1,4 +1,9 @@
 - role:
+  name: Chair
+  venues:
+  - venue: Software Innovation New Zealand
+    tenure: 2024 - current
+- role:
   name:	Liaison for Diversity, Equity, and Inclusion
   venues:
   - venue: ACM Special Interest Group on Software Engineering (SIGSOFT)
