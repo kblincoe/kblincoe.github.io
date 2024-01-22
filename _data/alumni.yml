@@ -1,4 +1,9 @@
 - student:
+  name: Xiaoqi Chai
+  degree: Master of Engineering (Software), University of Auckland
+  year: 2024
+  thesis: "Accessibility Rank: A Machine Learning Approach for Prioritizing User Reviews Based on Accessibility Need"
+- student:
   name: Haris Mumtaz
   degree: PhD Software Engineering, University of Auckland
   year: 2023
