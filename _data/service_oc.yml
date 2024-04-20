@@ -15,7 +15,9 @@
 - role:
   name: Track Co-Chair
   venues:
-  - venue: Artifact Evaluation Co-Chair, International Conference on Software Engineering (ICSE)
+  - venue: Artifact Evaluation, International Conference on Software Engineering (ICSE)
+    tenure: 2025
+  - venue: Journal First Track, Requirements Engineering Foundation for Software Quality (REFSQ)
     tenure: 2025
   - venue: Industry Forum, International Conference on Software Engineering (ICSE)
     tenure: 2023
