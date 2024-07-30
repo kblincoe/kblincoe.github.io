@@ -1,7 +1,4 @@
 - student:
-  name: Hechen (Sunny) Wang
-  degree: PhD Software Engineering, University of Auckland
-- student:
   name: Dhanushka Jayasuriya
   degree: PhD Software Engineering, University of Auckland
 - student:
@@ -11,8 +8,8 @@
   name: Judith Perera
   degree: PhD Computer Science, University of Auckland
 - student:
-  name: Sau Kae Tan
-  degree: PhD Software Engineering, University of Auckland
-- student:
   name: Faith Culas
   degree: PhD Software Engineering, University of Auckland
+- student:
+  name: Annie Vella
+  degree: Master of Engineering (Software), University of Auckland
