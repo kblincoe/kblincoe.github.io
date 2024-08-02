@@ -3,12 +3,17 @@
   venues:
   - venue: Software Innovation New Zealand
     tenure: 2024 - current
-  - venue: ACM SIGSOFT CARES
-    tenure: 2023 - current
+  - venue: ACM Special Interest Group on Software Engineering (SIGSOFT) CARES
+    tenure: 2023 - 2025
+- role:
+  name: At-large Member
+  venues:
+  - venue: ACM SIGSOFT
+    tenure: 2024 - 2027
 - role:
   name:	Liaison for Diversity, Equity, and Inclusion
   venues:
-  - venue: ACM Special Interest Group on Software Engineering (SIGSOFT)
+  - venue: ACM SIGSOFT
     tenure: 2019 - current
 - role:
   name: Treasurer
