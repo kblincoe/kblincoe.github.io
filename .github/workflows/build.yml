@@ -23,6 +23,7 @@ jobs:
         rm -rf _site/*
         gem install bundler -v 2.4.22
         bundle install
+	echo "google_analytics: ${{ secrets.ANALYTICS }}" >> _config.yml
         bundle exec jekyll build --trace
     - name: Deploy
       if: github.ref == 'refs/heads/source'

@@ -6,8 +6,6 @@ gems: ['jekyll/scholar']
 
 title: "Dr Kelly Blincoe"
 
-google_analytics: ${{ secrets.ANALYTICS }}
-
 scholar:
   style: _bibliography/acm-sigchi-proceedings.csl
   locale: en
