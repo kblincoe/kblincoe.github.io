@@ -51,5 +51,9 @@ Part of my job includes national and international service. I hold many leadersh
 
 <h2 class="text-primary">Reviewing</h2>
 {% for item in site.data.service_reviewing %}
-  <div style="padding-bottom: 0px">{{item.venue}}</div>
+  <div style="padding-bottom: 10px"><b> {{ item.name}} </b><br>
+  {% for entry in item.venues %}
+    <i>{{entry.venue}}</i><br>
+   {% endfor %}
+   </div>
 {% endfor %}
