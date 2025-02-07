@@ -2,79 +2,95 @@
   name: Hechen (Sunny) Wang
   degree: PhD Software Engineering, University of Auckland
   year:	2024
-  thesis: "Understanding User Feedback from Software Forums for Requirements Elicitation"
+  thesis: "Understanding User Feedback from Software Product Forums for Product Improvement Insight Classification"
+  link: https://hdl.handle.net/2292/68324
 - student:
   name: Xiaoqi Chai
   degree: Master of Engineering (Software), University of Auckland
   year: 2024
   thesis: "Accessibility Rank: A Machine Learning Approach for Prioritizing User Reviews Based on Accessibility Need"
+  link: https://hdl.handle.net/2292/67258
 - student:
   name: Haris Mumtaz
   degree: PhD Software Engineering, University of Auckland
   year: 2023
   thesis: "Social and Technical Quality Analysis in Software Projects"
+  link: https://hdl.handle.net/2292/65435
 - student:
   name: Peter Devine
   degree: PhD Software Engineering, University of Auckland
   year:	2023
   thesis: "Improved Techniques for Identifying Software Product Development Insights"
+  link: https://hdl.handle.net/2292/65940
 - student:
   name: Sanuri Dananja Gunawardena
   degree: PhD Computer Science, University of Auckland
   year: 2023
   thesis: "Exploring the Potential of Non-programmer Contributions in Code Review"
+  link: https://hdl.handle.net/2292/64255
 - student:
   name: Run Qin
   degree: Master of Engineering (Software), University of Auckland
   year: 2023
   thesis: "Bert-based Feature Extraction Approach for Software Forum Posts"
+  link: https://hdl.handle.net/2292/65486
 - student:
   name: James Tizard
   degree: PhD Software Engineering, University of Auckland
   year: 2022
   thesis: "Voice of the users: Mining software requirements from online user feedback"
+  link: https://hdl.handle.net/2292/61380
 - student:
   name: Chinmay Deshmukh
   degree: Master of Engineering (Software), University of Auckland
   year: 2022
   thesis: "AuMi-Tests: Automated Generation of a Regression Test Suite for Libraries by Mining Tests from Open Source Client Projects"
+  link: https://hdl.handle.net/2292/60412
 - student:
   name: Zainab Masood
   degree: PhD Software Engineering, University of Auckland
   year: 2021
   thesis: Theory of Practicing and Making Self-Assignment Work
+  link: https://hdl.handle.net/2292/57084
 - student:
   name: Madhurjya Choudhury
   degree: PhD Mechanical Engineering, University of Auckland
   year: 2021
   thesis: Strategies for Removing Non-stationary Effects in Machine Diagnostics using Model-driven and Artificial Intelligence Techniques
+  link: https://hdl.handle.net/2292/57253
 - student:
   name: Eddie Chiang
   degree: Master of Engineering (Software), University of Auckland
   year: 2021
   thesis: Program Comprehension Challenges Detection for Pull Requests with Machine Learning
+  link: https://hdl.handle.net/2292/55125
 - student:
   name:	Hechen (Sunny) Wang
   degree: Master of Engineering (Software), University of Auckland
   year: 2019
   thesis: Classification of Software Forum Data with Machine Learning
+  link: http://hdl.handle.net/2292/47612
 - student:
   name:	Ali Dehghan
   degree: Master of Computer Science, University of Victoria, Canada
   year: 2017
   thesis: Predicting Likelihood of Requirement Implementation within the Planned Iteration - An Empirical Study at IBM
+  link: https://search.library.uvic.ca/permalink/01VIC_INST/12198k2/alma9938822743807291
 - student:
   name:	Amar Kashari
   degree: Master of Computer and Information Sciences, Auckland University of Technology
   year: 2017
   thesis: Agile Teams Roles and Responsibilities
+  link: https://hdl.handle.net/10292/10540
 - student:
   name:	Mashael Aljohani
   degree: Master of Information Security and Digital Forensics, Auckland University of Technology
   year: 2016
   thesis: Personal Information Disclosure and Privacy in Social Networking Sites
+  link: https://hdl.handle.net/10292/10320
 - student:
   name:	Francis Harison
   degree: Master of Computer Science, University of Victoria, Canada
   year: 2015
   thesis: A Method for Identifying Software Ecosystems of Technically Dependent Projects
+  link: https://search.library.uvic.ca/permalink/01VIC_INST/12198k2/alma9933998243807291
