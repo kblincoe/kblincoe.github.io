@@ -25,6 +25,10 @@
 - role:
   name:	Conferences Other Tracks
   venues:
+  - venue: Onward! Essays
+    tenure: 2025
+  - venue: Doctoral Symposium, IEEE International Conference on Software Maintenance and Evolution (ICSME)
+    tenure: 2025
   - venue: New Faculty Symposium, Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
     tenure: 2023
   - venue: Student Research Competition, International Conference on Software Engineering (ICSE)
