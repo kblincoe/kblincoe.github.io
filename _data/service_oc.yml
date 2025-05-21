@@ -15,6 +15,8 @@
 - role:
   name: Track Co-Chair
   venues:
+  - venue: Doctoral and Early-Career Symposium, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)
+    tenure: 2026
   - venue: Artifact Evaluation, International Conference on Software Engineering (ICSE)
     tenure: 2025
   - venue: Journal First Track, Requirements Engineering Foundation for Software Quality (REFSQ)
@@ -36,6 +38,10 @@
 - role: 
   name: Other Conference Organization Committee Roles
   venues:
+  - venue: Workshops Co-Chair, International Conference on Software Engineering (ICSE)
+    tenure: 2026
+  - venue: Publicity Co-Chair, International Conference on Software Engineering (ICSE)
+    tenure: 2026
   - venue: Local Organization Chair, International Conference on Software Maintenance and Evolution (ICSME)
     tenure: 2025
   - venue: Publicity Lead (Oceania), International Conference on Evaluation and Assessment in Software Engineering (EASE)
