@@ -1,15 +1,15 @@
 - student:
-  name: Dhanushka Jayasuriya
-  degree: PhD Software Engineering, University of Auckland
-- student:
   name: Hazel Darney
   degree: PhD Information Systems, Victoria University of Wellington
 - student:
-  name: Judith Perera
-  degree: PhD Computer Science, University of Auckland
-- student:
   name: Faith Culas
   degree: PhD Software Engineering, University of Auckland
+- student:
+  name: Nazgol Nikravesh
+  degree: PhD Software Engineering, University of Auckland
+- student:
+  name: Shuting Liu
+  degree: PhD Electrical and Electronic Engineering, University of Auckland
 - student:
   name: Annie Vella
   degree: Master of Engineering (Software), University of Auckland

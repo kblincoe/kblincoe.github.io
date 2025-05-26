@@ -1,4 +1,14 @@
 - student:
+  name: Dhanushka Jayasuriya
+  degree: PhD Software Engineering, University of Auckland
+  year: 2025
+  thesis: "Breaking Changes and their Effect on Client Projects"
+- student:
+  name: Judith Perera
+  degree: PhD Computer Science, University of Auckland
+  year: 2025
+  thesis: "Modelling the Quantification of Technical Debt: A Theoretical Foundation for Quantifying Code, Design, Architecture, and Requirements Technical Debt"
+- student:
   name: Hechen (Sunny) Wang
   degree: PhD Software Engineering, University of Auckland
   year:	2024

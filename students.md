@@ -12,7 +12,7 @@ Interested in doing a PhD? Check out the <a href="https://www.auckland.ac.nz/en/
 <h2 class="text-primary">Alumni</h2>
 {% for item in site.data.alumni %}
    {{item.name}}, {{item.degree}}, {{item.year}}<br>
-   <i>Thesis: </i>{{item.thesis}} [<a href="{{item.link}}" target="_blank">Full Text</a>]
+   <i>Thesis: </i>{{item.thesis}} {% if item.link %} [<a href="{{item.link}}" target="_blank">Full Text</a>] {% endif %}
 {% endfor %}
 
 <h2 class="text-primary">Thesis Examination Committee Member</h2>
