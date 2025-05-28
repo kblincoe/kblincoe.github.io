@@ -28,9 +28,11 @@
 - role:
   name: Steering Committee Member
   venues:
-  - venue: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) 
+  - venue: International Conference on Software Engineering (ICSE)
+    tenure: 2025 - current
+  - venue: ACM International Conference on the Foundations of Software Engineering (FSE)
     tenure: 2021 - current
-  - venue: International Conference on Software Maintenance and Evolution
+  - venue: International Conference on Software Maintenance and Evolution (ICSME)
     tenure: 2020 - 2023
-  - venue: Mining Software Repositories Conference 
+  - venue: Mining Software Repositories Conference (MSR)
     tenure: 2019 - current

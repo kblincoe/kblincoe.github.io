@@ -3,7 +3,7 @@
   venues:
   - venue: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
     tenure: 2023
-  - venue: Mining Software Repositories (MSR)
+  - venue: Mining Software Repositories Conference (MSR)
     tenure: 2021
   - venue: International Conference on Software Maintenance and Evolution (ICSME)
     tenure: 2020
@@ -16,6 +16,8 @@
   name: Track Co-Chair
   venues:
   - venue: Doctoral and Early-Career Symposium, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)
+    tenure: 2026
+  - venue: Vision/Reflection Track, Mining Software Repositories Conference (MSR)
     tenure: 2026
   - venue: Artifact Evaluation, International Conference on Software Engineering (ICSE)
     tenure: 2025
@@ -48,7 +50,7 @@
     tenure: 2024
   - venue: Diversity and Inclusion Co-Chair, Local Organising Chair, ACM SIGPLAN conference on Systems, Programming, Languages, and Applications Software for Humanity (SPLASH)
     tenure: 2022
-  - venue: Publicity Co-Chair, Mining Software Repositories (MSR)
+  - venue: Publicity Co-Chair, Mining Software Repositories Conference (MSR)
     tenure: 2019
 - role:
   name: Workshop Organizer
