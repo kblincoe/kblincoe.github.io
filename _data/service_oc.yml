@@ -41,8 +41,10 @@
   name: Other Conference Organization Committee Roles
   venues:
   - venue: Workshops Co-Chair, International Conference on Software Engineering (ICSE)
-    tenure: 2026
+    tenure: 2027
   - venue: Publicity Co-Chair, International Conference on Software Engineering (ICSE)
+    tenure: 2026
+  - venue: Publicity Australasia Chair, International Conference on Evaluation and Assessment in Software Engineering (EASE)
     tenure: 2026
   - venue: Local Organization Chair, International Conference on Software Maintenance and Evolution (ICSME)
     tenure: 2025
