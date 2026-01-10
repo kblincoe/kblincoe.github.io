@@ -5,16 +5,18 @@
     tenure: 2021 - current
 - role: 
   name: Associate Editor
-  venues: 
-  - venue: IEEE Transactions on Software Engineering (TSE)
-    tenure: 2021 - current
+  venues:
   - venue: Empirical Software Engineering (EMSE)
     tenure: 2018 - current
+  - venue: IEEE Transactions on Software Engineering (TSE)
+    tenure: 2021 - 2025
   - venue: Journal of Systems and Software (JSS)
     tenure: 2017 - 2020
 - role: 
   name: Guest Editor
   venues:
+  - venue: Special Theme Issue on Human-Centric AI for Software Engineering in IEEE Software
+    tenure: 2027
   - venue: Special Issue on Human-Centric Software Engineering in Journal of Systems and Software (JSS)
     tenure: 2023
   - venue: Special Issue on MSR'21 in Empirical Software Engineering (EMSE)

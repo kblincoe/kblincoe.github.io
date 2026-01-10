@@ -23,6 +23,8 @@
 - role:
   name: Member
   venues:
+  - venue: ACM Special Interest Group on Software Engineering (SIGSOFT) CARES
+    tenure: 2026 - 2028
   - venue: IEEE Computer Society Diversity and Inclusion Committee
     tenure: 2023 - 2024
 - role:

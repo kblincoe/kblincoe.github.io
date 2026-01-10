@@ -57,6 +57,8 @@
 - role:
   name: Workshop Organizer
   venues:
+  - venue: Workshop on Human-Centered AI for Software Engineering (HumanAISE)
+    tenure: 2026
   - venue: International Workshop on Affective Computing in Requirements Engineering (AffectRE)
     tenure: 2020, 2021
   - venue: International Workshop on Context for Software Developers (CSD)

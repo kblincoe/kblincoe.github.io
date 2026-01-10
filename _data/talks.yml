@@ -8,6 +8,7 @@
   venue: "BRIDGES Summer School in the South Pacific: Innovative Prototyping through AI-powered Tech and Open Source"
   year: 2026
   type: Keynote
+  slides: slides/2026_BRIDGES.pdf
 - talk:
   title: "After the PhD: Applying Software Evolution Principles to Academic Careers"
   venue: International Conference on Software Maintenance and Evolution (ICSME) Doctoral Symposium
