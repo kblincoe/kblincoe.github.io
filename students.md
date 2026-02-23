@@ -2,7 +2,10 @@
 layout: default
 title: Students
 ---
+<!--
 Interested in doing a PhD? Check out the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/software-engineering/doctoral.html" target="_blank">Software Engineering PhD programme</a> at the University of Auckland, where you will find details on how to apply. If you do apply and want to work with me, in the application make sure to choose Software Engineering (in the Faculty of Engineering) and put my name as the primary supervisor. You can also email me if you want to discuss your research interests and how they might fit with my group (this is optional). Also check out the <a href="https://hasel.auckland.ac.nz" target="_blank">HASEL website</a> to learn more about our team and current projects. A PhD in New Zealand typically takes 3-4 years. <br><br>
+-->
+I am not currently taking new PhD students. If you are interested in doing a PhD, see openings <a href="https://ssc-fort.github.io/vacancies.html" target="_blank">here</a>. <br><br>
 
 <h2 class="text-primary">Current Students</h2>
 {% for item in site.data.students %}
