@@ -10,11 +10,15 @@
 - role:
   name: Program Committee Area Chair
   venues:
+  - venue: Human and Social Aspects, International Conference on the Foundations of Software Engineering (FSE)
+    tenure: 2027
   - venue: Software Analytics, International Conference on Software Engineering (ICSE)
     tenure: 2023
 - role:
   name: Track Co-Chair
   venues:
+  - venue: Doctoral Symposium, International Conference on Software Engineering (ICSE)
+    tenure: 2028
   - venue: Doctoral and Early-Career Symposium, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)
     tenure: 2026
   - venue: Vision/Reflection Track, Mining Software Repositories Conference (MSR)
