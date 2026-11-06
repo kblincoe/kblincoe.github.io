@@ -1,0 +1,13 @@
+- date: 2026-11-09
+  text: I am attending the NII Shonan Meeting on "Crafting the Future of Developer Experience" this month.
+- date: 2026-10-27
+  text: Our paper on how AI is changing software engineering research was accepted at TOSEM.
+  pub: tosem2026se4ai
+- date: 2026-10-22
+  text: Our paper describing a longitudinal study on the impact of AI on software engineering was accepted at TOSEM.
+  pub: tosem2026longitudinalAI
+- date: 2026-10-07
+  text: Our opinion peice on why we believe AI will not replace software engineers was accepted at CACM.
+  pub: cacm2026evolution
+- date: 2026-09-14
+  text: I am organising a Dagstuhl seminar titled "Towards Standards for Research Artifact Sharing and Open Science in Software Engineering Research" this month.

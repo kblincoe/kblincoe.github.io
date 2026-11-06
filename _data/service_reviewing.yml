@@ -1,6 +1,9 @@
 - type:
   name: Funding applications
   venues:
+  - venue: New Zealand Royal Society Te Apārangi Marsden Fund
+  - venue: New Zealand Royal Society Catalyst Fund 
+  - venue: Austrian Science Fund
   - venue: Natural Sciences and Engineering Research Council of Canada (NSERC)
   - venue: Fonds de la Recherche Scientifique (FNRS)
   - venue: Dutch Research Council (NWO)

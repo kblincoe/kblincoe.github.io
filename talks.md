@@ -3,6 +3,8 @@ layout: default
 title: Invited Talks
 ---
 
+<div class="readable">
+
 <h2 class="text-primary">Invited Talks</h2>
 {% for item in site.data.talks %}
   <div style="padding-bottom: 10px"> <b>{{item.title}}</b><br>
@@ -16,3 +18,5 @@ title: Invited Talks
   {% endif %}
   </div>
 {% endfor %}
+
+</div>

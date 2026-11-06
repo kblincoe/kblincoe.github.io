@@ -1,7 +1,7 @@
 <div class="col-sm-1 bg-light" style="text-align: center;">
   <div class="d-none d-sm-block">
     {% for item in site.data.social %}
-      <br><a href="{{item.url}}" title="{{item.name}}" target="_blank"><i class="{{item.icon}} fa-lg"></i></a><br>
+      <br><a href="{{item.url}}" title="{{item.name}}" aria-label="{{item.aria}}" target="_blank"><i class="{{item.icon}} fa-lg"></i></a><br>
     {% endfor %}
 </div>
 </div>

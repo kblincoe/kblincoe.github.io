@@ -1,4 +1,9 @@
 - role:
+  name: Review Process Chair
+  venues:
+  - venue: ACM Transactions on Software Engineering and Methodology
+    tenure: 2026 - current
+- role:
   name: Senior Associate Editor
   venues:
   - venue: Journal of Systems and Software (JSS)

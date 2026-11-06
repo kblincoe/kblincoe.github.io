@@ -2,7 +2,10 @@
 layout: default
 title: Service
 ---
-Part of my job includes national and international service. I hold many leadership positions in the software engineering research community.
+
+<div class="readable">
+
+<p>Part of my job includes national and international service. I hold many leadership positions in the software engineering research community.</p>
 
 <h2 class="text-primary">Journal Board Memberships</h2>
 {% for item in site.data.service_journals %}
@@ -57,3 +60,5 @@ Part of my job includes national and international service. I hold many leadersh
    {% endfor %}
    </div>
 {% endfor %}
+
+</div>

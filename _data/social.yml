@@ -1,27 +1,36 @@
 - name: Email
   url: mailto:k.blincoe@auckland.ac.nz
   icon:	fas fa-envelope
+  aria: email
 - name: Lab website
   url: https://hasel.auckland.ac.nz/
   icon:	fa fa-university
+  aria: University website
 - name: Twitter
   url: https://twitter.com/KellyBlincoe
   icon: fab fa-twitter
+  aria: twitter
 - name: LinkedIn
   url: https://www.linkedin.com/in/kelly-blincoe-8b08a455/
   icon:	fab fa-linkedin-in
+  aria: LinkedIn
 - name: Google Scholar
   url: https://scholar.google.com/citations?user=lqL9DsoAAAAJ&hl=en
   icon: ai ai-google-scholar
+  aria: Google Scholar
 - name: ResearchGate
   url: https://www.researchgate.net/profile/Kelly_Blincoe
   icon: ai ai-researchgate
+  aria: ResearchGate
 - name:	dblp
   url: https://dblp.org/pid/50/10438
   icon: ai ai-dblp
+  aria: DBLP
 - name:	Orcid
   url: https://orcid.org/0000-0003-4092-9706
   icon: ai ai-orcid
+  aria: Orcid
 - name: GitHub
   url: https://github.com/kblincoe
   icon:	fab fa-github
+  aria: GitHub

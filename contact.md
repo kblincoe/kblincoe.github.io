@@ -2,6 +2,9 @@
 layout: default
 title: Contact
 ---
+
+<div class="readable">
+
 <h2 class="text-primary">I'd love to hear from you!</h2><br>
 
 <span><i class="fa fa-envelope"></i><a href="mailto:k.blincoe@auckland.ac.nz" target="_blank"> k.blincoe@auckland.ac.nz</a></span><br><br>
@@ -24,4 +27,6 @@ New Zealand<br>
 
 <div class="d-block d-sm-none" style="text-align: center;"><br>
   or find me online ... <br>
+</div>
+
 </div>
