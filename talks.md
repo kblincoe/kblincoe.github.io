@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Invited Talks
+description: "A list of keynotes and invited talks by Kelly Blincoe."
 ---
 
 <div class="readable">

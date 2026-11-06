@@ -12,7 +12,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /imgs/Kelly_Blincoe.jpg
+      image: /imgs/Kelly_Blincoe_full.jpg
       alt: Kelly Blincoe
 
 scholar:

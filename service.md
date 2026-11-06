@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Service
+description: "Kelly Blincoe’s journal editorial roles, committee memberships, and other service to the software engineering research community."
 ---
 
 <div class="readable">

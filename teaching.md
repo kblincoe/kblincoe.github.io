@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+description: "Software engineering courses Kelly Blincoe teaches at the University of Auckland."
 ---
 <div class="readable">
 

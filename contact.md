@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+description: "Contact information for Kelly Blincoe at the University of Auckland."
 ---
 
 <div class="readable">

@@ -10,7 +10,7 @@ title: About
      
 <p class="lead">I study how teams create and maintain software products: how developers coordinate, who gets to take part, how developers understand users’ needs, and how the process is changing in the rapidly evolving technical landscape.</p>
  
-<p>I’m a Professor of Software Engineering in the Department of Electrical, Computer, and Software Engineering at the University of Auckland, New Zealand, and a Rutherford Discovery Fellow. I lead the <a href="https://hasel.auckland.ac.nz/" target="_blank">Human Aspects of Software Engineering Lab (HASEL)</a>. I lead the <a href="https://engclusion.nz/" target="_blank">ENGclusion</a> research programme.</p>
+<p>I’m a Professor of Software Engineering in the Department of Electrical, Computer, and Software Engineering at the University of Auckland, New Zealand, and a Rutherford Discovery Fellow. I lead the <a href="https://hasel.auckland.ac.nz/" target="_blank">Human Aspects of Software Engineering Lab (HASEL)</a> and the <a href="https://engclusion.nz/" target="_blank">ENGclusion</a> research programme.</p>
 
 <h2 class="h4 mt-4">Research</h2>
 
