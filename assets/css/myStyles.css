@@ -55,3 +55,10 @@ pre{
 @media (prefers-reduced-motion: reduce) {
   .bibliography span[id]:target { animation: none; }
 }
+
+body {
+    color: #555;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
