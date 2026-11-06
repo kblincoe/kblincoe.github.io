@@ -40,3 +40,11 @@ scholar:
   bibtex_skip_fields: ['pdf', 'code', 'video', 'slides', 'ordering']
   
   query: "@*"
+
+social:
+  name: Kelly Blincoe
+  links:
+    - https://scholar.google.com/citations?user=lqL9DsoAAAAJ&hl=en
+    - https://orcid.org/0000-0003-4092-9706
+    - https://www.linkedin.com/in/kelly-blincoe-8b08a455/
+    - https://github.com/kblincoe

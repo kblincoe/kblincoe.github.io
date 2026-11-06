@@ -5,6 +5,8 @@ description: "Prof Kelly Blincoe studies how teams create and maintain software 
 ---
 <div class="readable">
 
+<h1 class="text-primary mb-4">About me</h1>
+
 <img src="/imgs/Kelly_Blincoe.jpg" alt="Prof Kelly Blincoe"
      class="rounded float-sm-right ml-sm-4 mb-3 d-block mx-auto"
      width="220" style="max-width: 60%;">
