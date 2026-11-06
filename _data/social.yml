@@ -6,10 +6,6 @@
   url: https://hasel.auckland.ac.nz/
   icon:	fa fa-university
   aria: University website
-- name: Twitter
-  url: https://twitter.com/KellyBlincoe
-  icon: fab fa-twitter
-  aria: twitter
 - name: LinkedIn
   url: https://www.linkedin.com/in/kelly-blincoe-8b08a455/
   icon:	fab fa-linkedin-in

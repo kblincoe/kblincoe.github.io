@@ -5,6 +5,7 @@ plugins:
 gems: ['jekyll/scholar'] 
 
 title: "Prof Kelly Blincoe"
+url: "https://kblincoe.github.io"
 description: "Prof Kelly Blincoe studies how teams create and maintain software products. She is a Professor of Software Engineering at the University of Auckland in New Zealand."
 
 defaults:

@@ -3,9 +3,8 @@ layout: default
 title: Home
 ---
 <div class="home">
-  <div class="container-fluid">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-5">
         <img class="rounded img-fluid" src="./imgs/Kelly_Blincoe.jpg" alt="Prof Kelly Blincoe"><br>
       </div>
       <div class="col-sm-7">    
@@ -14,7 +13,6 @@ title: Home
       <p>I study how people create and maintain software systems. I am a Rutherford Discovery Fellow and a Professor of Software Engineering at the University of Auckland, New Zealand in the <a href="https://hasel.auckland.ac.nz/" target="_blank">Human Aspects of Software Engineering Lab (HASEL)</a>, in the Department of Electrical, Computer, and Software Engineering. I lead the <a href="https://engclusion.nz" target="_blank">ENGclusion</a> research programme.</p>
 
       <div style="text-align: center;"><a href="/about.html" style="font-family: 'Homemade Apple', cursive; font-size: 150%;">More about me</a></div>
-    </div>
   </div>
 
   <h2 class="h4 mt-5">Recent news</h2>
