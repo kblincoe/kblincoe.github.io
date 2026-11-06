@@ -1,9 +1,9 @@
 <footer class="text-center bg-light text-primary">
   <br>
   <div class="d-block d-sm-none" style="text-align: center;">
-      {% for item in site.data.social %}
-        <a href="{{item.url}}" title="{{item.name}}" target="_blank"><i class="{{item.icon}} fa-lg"></i></a>&nbsp;&nbsp;
-      {% endfor %}
+    {% for item in site.data.social %}
+      <a href="{{ item.url }}" title="{{ item.name }}" aria-label="{{ item.aria }}"{% unless item.url contains "mailto:" %} target="_blank"{% endunless %}><i class="{{ item.icon }} fa-lg"></i></a>&nbsp;&nbsp;
+    {% endfor %}
   </div>
   <br>
   &copy; Copyright {{site.title}} {{ site.time | date: '%Y' }}. <br>
