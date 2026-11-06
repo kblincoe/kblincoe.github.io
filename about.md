@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: "Prof Kelly Blincoe studies how teams create and maintain software products. She is a Professor of Software Engineering at the University of Auckland in New Zealand."
 ---
 <div class="readable">
 

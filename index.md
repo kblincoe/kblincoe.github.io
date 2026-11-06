@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Prof Kelly Blincoe
 ---
 <div class="home">
     <div class="row">
